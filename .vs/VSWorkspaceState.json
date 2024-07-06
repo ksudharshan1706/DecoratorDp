@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DecoratorDesignPattern",
+    "\\DecoratorDesignPattern\\DecoratorDesignPattern",
+    "\\DecoratorDesignPattern\\DecoratorDesignPattern\\Decorators",
+    "\\DecoratorDesignPattern\\DecoratorDesignPattern\\Decorators\\decoratorpatterns"
+  ],
+  "SelectedNode": "\\DecoratorDesignPattern\\DecoratorDesignPattern\\Decorators\\BaseComponent.cs",
+  "PreviewInSolutionExplorer": false
+}
